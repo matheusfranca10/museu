@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto é um site informativo desenvolvido utilizando **HTML** e **CSS**.
+Este projeto é um site desenvolvido utilizando **HTML** e **CSS**.
 
 ## Funcionalidades
 
