@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto é um **site informativo sobre um museu fictício**, desenvolvido utilizando **HTML** e **CSS**. O objetivo é apresentar informações, suas coleções e histórias de forma visualmente atraente.
+Este projeto é um site informativo desenvolvido utilizando **HTML** e **CSS**.
 
 ## Funcionalidades
 
