@@ -1,5 +1,3 @@
-# Museu
-
 ## Sobre o Projeto
 
 Este projeto é um site desenvolvido utilizando **HTML** e **CSS**.
